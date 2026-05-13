@@ -18,10 +18,10 @@ Pré-requisitos:
 Passos:
 
 1- Clone o repositório:
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/GabrielPerecim/Conversor-de-Bases-Numericas.git
 
 2- Acesse a pasta do projeto:
-cd nome-do-repositorio
+cd Conversor-de-Bases-Numericas
 
 3- Execute o programa:
 dotnet run
