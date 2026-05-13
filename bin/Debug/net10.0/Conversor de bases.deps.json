@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Conversor de bases/1.0.0": {
+        "runtime": {
+          "Conversor de bases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conversor de bases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

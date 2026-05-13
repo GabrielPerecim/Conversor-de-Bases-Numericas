@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Conversor de bases\bin\Debug\net10.0\Conversor de bases.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Conversor de bases\bin\Debug\net10.0\Conversor de bases.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Conversor de bases\bin\Debug\net10.0\Conversor de bases.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Conversor de bases\bin\Debug\net10.0\Conversor de bases.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Conversor de bases\bin\Debug\net10.0\Conversor de bases.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Conversor de bases\obj\Debug\net10.0\Conversor de bases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Conversor de bases\obj\Debug\net10.0\Conversor de bases.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Conversor de bases\obj\Debug\net10.0\Conversor de bases.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Conversor de bases\obj\Debug\net10.0\Conversor de bases.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Conversor de bases\obj\Debug\net10.0\Conversor de bases.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Conversor de bases\obj\Debug\net10.0\refint\Conversor de bases.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Conversor de bases\obj\Debug\net10.0\Conversor de bases.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Conversor de bases\obj\Debug\net10.0\Conversor de bases.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Conversor de bases\obj\Debug\net10.0\ref\Conversor de bases.dll
