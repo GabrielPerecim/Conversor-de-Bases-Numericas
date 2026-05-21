@@ -49,3 +49,7 @@ Console Application
 
 Autor:
 Desenvolvido por Gabriel Perecim — estudante de Análise e Desenvolvimento de Sistemas na FATEC Ribeirão Preto.
+
+Limitações
+- O conversor suporta números de até **2.147.483.647** (valor máximo de um inteiro de 32 bits)
+- Bases suportadas: de 2 até 36
