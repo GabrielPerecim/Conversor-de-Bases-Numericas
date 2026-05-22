@@ -71,11 +71,8 @@ O programa trata os seguintes casos:
 ---
 
 ## ⚠️ Limitações
-
-- O conversor suporta números de até **2.147.483.647** (valor máximo de um inteiro de 32 bits). Números acima desse valor podem gerar resultados incorretos.
+- O conversor suporta números de até **9.223.372.036.854.775.807** (valor máximo de um long de 64 bits)
 - Bases suportadas: de **2 até 36**
-
----
 
 ## 🏗️ Estrutura do código
 
@@ -98,4 +95,4 @@ A estratégia de conversão é: **base origem → decimal → base destino**
 
 ## 👨‍💻 Autor
 
-Desenvolvado por **Gabriel Perecim** — estudante de Análise e Desenvolvimento de Sistemas na FATEC Ribeirão Preto.
+Desenvolvido por **Gabriel Perecim** — estudante de Análise e Desenvolvimento de Sistemas na FATEC Ribeirão Preto.

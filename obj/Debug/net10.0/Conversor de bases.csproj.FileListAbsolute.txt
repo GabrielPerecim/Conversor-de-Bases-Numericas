@@ -12,3 +12,4 @@ C:\Users\gabri\OneDrive\Área de Trabalho\Conversor de bases\obj\Debug\net10.0\r
 C:\Users\gabri\OneDrive\Área de Trabalho\Conversor de bases\obj\Debug\net10.0\Conversor de bases.pdb
 C:\Users\gabri\OneDrive\Área de Trabalho\Conversor de bases\obj\Debug\net10.0\Conversor de bases.genruntimeconfig.cache
 C:\Users\gabri\OneDrive\Área de Trabalho\Conversor de bases\obj\Debug\net10.0\ref\Conversor de bases.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Conversor de bases\obj\Debug\net10.0\Conversor de bases.sourcelink.json

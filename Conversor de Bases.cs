@@ -87,11 +87,11 @@ int ExibirMenu(string mensagem, string ordem)
 // --- FUNÇÃO: ConverterParaDecimal ---
 // Converte um número em qualquer base para decimal.
 //   numero: o número como string (ex: "FF", "101")
-int ConverterParaDecimal(string numero, int base1)
+long ConverterParaDecimal(string numero, long base1)
 {
     char digito;        // Caractere atual sendo processado
     int valorDigito;    // Valor numérico do caractere atual
-    double resultado = 0;
+    long resultado = 0;
 
     numero = numero.ToUpper(); // Converte para maiúsculas para padronizar (ex: 'f' → 'F')
 
@@ -119,18 +119,18 @@ int ConverterParaDecimal(string numero, int base1)
         }
 
         // Acumula o valor: dígito × base^posição
-        resultado = resultado + valorDigito * Math.Pow(base1, posicao);
+        resultado = resultado + (long)(valorDigito * Math.Pow(base1, posicao));
     }
 
-    return (int)resultado;
+    return (long)resultado;
 }
 
 // --- FUNÇÃO: ConverterDeDecimal ---
 // Converte um número decimal para qualquer outra base.
-string ConverterDeDecimal(int base2, int numero)
+string ConverterDeDecimal(int base2, long numero)
 {
     string resultado = "";
-    int[] resto = new int[10]; // Armazena os restos das divisões sucessivas
+    long[] resto = new long[64]; // Armazena os restos das divisões sucessivas
     int i = 0;
 
     // Caso especial: número 0 sempre resulta em "0" em qualquer base
@@ -198,7 +198,7 @@ do
     Console.WriteLine("--------------------------");
 
     string numero;          // Número digitado pelo usuário
-    int numeroDecimal = -2; // Inicializado como erro para forçar o loop
+    long numeroDecimal = -2; // Inicializado como erro para forçar o loop
 
     // Loop que repete até o usuário digitar um número válido para a base escolhida
     do
